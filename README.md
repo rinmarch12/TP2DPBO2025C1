@@ -2,9 +2,6 @@ Janji
 ---
 Saya Ririn Marchelina dengan NIM 2303662 mengerjakan Tugas Praktikum 2 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
----
-![TP2 drawio](https://github.com/user-attachments/assets/008f6d9e-d33e-459d-a370-0b9ce1092d0c)
-
 ----
 Alur Program
 ---
@@ -20,5 +17,13 @@ Pengguna kemudian mengisi detail produk lainnya (nama produk, harga, stok, jenis
 4. Menampilkan Data Setelah Penambahan:
 Setelah data baru ditambahkan, program menghitung ulang panjang kolom dan menampilkan tabel yang sama dengan data baru yang sudah dimasukkan.
 
+----
+Diagram
+---
+![TP2 drawio](https://github.com/user-attachments/assets/008f6d9e-d33e-459d-a370-0b9ce1092d0c)
 
+----
+Desain Program
+---
+Terdiri dari 3 class yaitu PetShop, Aksesoris, dan Baju. Aksesoris adalah child dari PetShop, sedangkan Baju adalah child dari Aksesoris. PetShop berisi atribut umum untuk semua produk di toko hewan peliharaan, seperti id, nama_produk, harga_produk, stok_produk, dan foto, serta memiliki metode setter dan getter untuk setiap atribut dan display() untuk menampilkan informasi produk. Aksesoris menambahkan atribut jenis, bahan, dan warna, serta metode setter dan getter dan display() untuk menampilkan informasi aksesori. Baju menambahkan atribut untuk, size, dan merk, serta metode setter dan getter dan display() untuk menampilkan informasi pakaian.
 
