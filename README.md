@@ -15,20 +15,17 @@ Program dimulai dengan membuat daftar produk baju (dalam hal ini, baju untuk hew
 
 ---
 Menampilkan Data Awal:
----
 Setelah menginisialisasi data, program menampilkan tabel yang berisi informasi dari semua produk baju yang ada. Tabel ini mencakup kolom-kolom seperti ID, nama produk, harga, stok, jenis, bahan, warna, untuk, ukuran, dan merek.
 Panjang kolom dihitung berdasarkan panjang string terpanjang untuk setiap atribut.
 
 ---
 Input Pengguna untuk Menambahkan Data Baru:
----
 Program meminta pengguna untuk memasukkan jumlah data baru yang ingin ditambahkan.
 Untuk setiap produk baru, pengguna diminta untuk memasukkan ID dan memastikan bahwa ID tersebut belum ada dalam daftar. Jika ID sudah digunakan, pengguna diminta untuk memasukkan ID lain.
 Pengguna kemudian mengisi detail produk lainnya (nama produk, harga, stok, jenis, bahan, warna, untuk, ukuran, dan merek).
 
 ---
 Menampilkan Data Setelah Penambahan:
----
 Setelah data baru ditambahkan, program menghitung ulang panjang kolom dan menampilkan tabel yang sama dengan data baru yang sudah dimasukkan.
 
 
