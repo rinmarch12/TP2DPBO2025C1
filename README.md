@@ -11,9 +11,8 @@ Alur Program
 ---
 Inisialisasi Data:
 Program dimulai dengan membuat daftar produk baju (dalam hal ini, baju untuk hewan peliharaan) yang sudah ada, menggunakan objek Baju. Setiap objek Baju memiliki atribut seperti ID, nama produk, harga, stok, jenis, bahan, warna, untuk hewan, ukuran, dan merek.
+---
 
----
----
 Menampilkan Data Awal:
 Setelah menginisialisasi data, program menampilkan tabel yang berisi informasi dari semua produk baju yang ada. Tabel ini mencakup kolom-kolom seperti ID, nama produk, harga, stok, jenis, bahan, warna, untuk, ukuran, dan merek.
 Panjang kolom dihitung berdasarkan panjang string terpanjang untuk setiap atribut.
