@@ -9,6 +9,7 @@ Saya Ririn Marchelina dengan NIM 2303662 mengerjakan Tugas Praktikum 2 dalam mat
 ----
 Alur Program
 ---
+---
 Inisialisasi Data:
 Program dimulai dengan membuat daftar produk baju (dalam hal ini, baju untuk hewan peliharaan) yang sudah ada, menggunakan objek Baju. Setiap objek Baju memiliki atribut seperti ID, nama produk, harga, stok, jenis, bahan, warna, untuk hewan, ukuran, dan merek.
 ---
